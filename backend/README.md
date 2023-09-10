@@ -5,15 +5,15 @@ This is the backend part of a Realtime Chat Application built using Node.js, Exp
 ### Installation
 
 1. Clone the repository:
-- `git clone https://github.com/navneetguptacse/realtime-node-react-chat/`
-- `cd backend`
+    - `git clone https://github.com/navneetguptacse/realtime-node-react-chat/`
+    - `cd backend`
 
 2. Install dependencies:
-- `npm install`
+    - `npm install`
 
 3. Run the server:
-- `npm start`
-- This will launch the server using `nodemon`, which will automatically restart the server upon code changes.
+    - `npm start`
+    - This will launch the server using `nodemon`, which will automatically restart the server upon code changes.
 
 ### Dependencies
 
