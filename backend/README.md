@@ -29,6 +29,5 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 
 - [`navneetguptacse`](https://github.com/navneetguptacse)
 
----
 
 For the frontend part of this Realtime React Chat Application, please refer to the [`frontend repository`](https://github.com/navneetguptacse/realtime-node-react-chat/tree/main/frontend).
