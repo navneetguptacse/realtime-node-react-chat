@@ -1,4 +1,4 @@
-### Realtime React Chat Application - Backend
+### # Node + Express
 
 This is the backend part of a Realtime Chat Application built using Node.js, Express, and other libraries. It serves as the server-side component responsible for handling chat-related functionality.
 
